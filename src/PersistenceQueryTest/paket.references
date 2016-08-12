@@ -1,0 +1,8 @@
+Newtonsoft.Json
+Akka.FSharp
+Akka.Persistence.FSharp
+Akka.Persistence.Query.Sql
+Akka.Persistence.SqlServer
+FsPickler
+Akka.Serialization.Wire
+Wire

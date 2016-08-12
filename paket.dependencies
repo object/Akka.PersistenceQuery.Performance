@@ -1,0 +1,19 @@
+source https://nuget.org/api/v2
+
+nuget FAKE
+nuget SourceLink.Fake
+nuget FSharp.Configuration
+nuget FSharp.Formatting
+nuget FSharp.Data
+nuget Newtonsoft.Json ~> 9
+nuget Akka
+nuget Akka.FSharp
+nuget Akka.Persistence
+nuget Akka.Persistence.FSharp
+nuget Akka.Persistence.SqlServer
+nuget Akka.Persistence.Query
+nuget Akka.Persistence.Query.Sql
+nuget Akka.Serialization.Wire
+nuget Wire 0.0.6
+nuget FsPickler ~> 1
+nuget System.Collections.Immutable
